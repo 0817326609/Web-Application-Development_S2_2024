@@ -1,0 +1,22 @@
+body {
+    font-family: "Bodoni MT Black", sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: blue; /* Changed header text color to blue */
+    padding: 10px 0;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+h2 {
+    color: #333;
+}
